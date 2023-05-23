@@ -1,5 +1,5 @@
 import React from 'react';
-import bgImg from '../assets/img6.jpg';
+import bgImgr from '../assets/randeep.jpg';
 import bgImgp from '../assets/Imgp.jpg'
 import bgImgb from '../assets/imgb.jpg'
 import bgImgs from '../assets/imgs.jpg'
@@ -412,7 +412,7 @@ const Devs = () => {
             </div>
         </div>
         <div className="flex items-center gap-x-6 mt-10">
-          <img className="h-40 w-40 rounded-full" src={bgImg} alt="bgImg" />
+          <img className="h-40 w-40 rounded-full" src={bgImgr} alt="bgImg" />
             <div>
               <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900">Randeep Singh</h3>
               <p className="text-sm font-semibold leading-6 text-indigo-600">UI/UX Design</p>

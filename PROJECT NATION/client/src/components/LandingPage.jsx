@@ -4,6 +4,8 @@ import Footer from '../components/Footer'
 import Devs from '../components/Devs'
 import HeroSec from '../components/HeroSec'
 import Cta from './Cta'
+import Cta1 from './Cta1'
+import Cta2 from './Cta2'
 
 
 const LandingPage = () => {
@@ -12,6 +14,8 @@ const LandingPage = () => {
       <Nav/>
       <HeroSec/>
       <Cta/>
+      <Cta1/>
+      <Cta2/>
       <Devs/>
       <Footer/>
       
